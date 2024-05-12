@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EFBDE6A8-076
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{7A6892BD-581C-499F-BDFC-735168B54AB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refinify.Domain.UnitTests", "test\Refinify.Domain.UnitTests\Refinify.Domain.UnitTests.csproj", "{3745F5CB-64FE-4C24-ABEE-0351E7E5AD8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Refinify.Domain.UnitTests", "test\Refinify.Domain.UnitTests\Refinify.Domain.UnitTests.csproj", "{3745F5CB-64FE-4C24-ABEE-0351E7E5AD8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refinify.Domain", "src\Refinify.Domain\Refinify.Domain.csproj", "{B1801950-2F84-4E87-AA6B-1B807D9EAFC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Refinify.Domain", "src\Refinify.Domain\Refinify.Domain.csproj", "{B1801950-2F84-4E87-AA6B-1B807D9EAFC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
